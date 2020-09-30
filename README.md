@@ -1,6 +1,8 @@
-# Space-fighter-
-It is a game created using python
-1.open python file using pycharm
-2. Press the Run button. 
-3. Then ENJOY THE GAMEPLAY. 
-4. Finally SUBSCRIBE TO MY YT CHANNEL. 😁😁😁😁
+# Space-fighter
+## It is a game created using python
+```
+pip install pygame
+```
+1. open main.py
+2. Then ENJOY THE GAMEPLAY. 
+Finally SUBSCRIBE TO My YouTube channel(https://www.youtube.com/channel/UCEJ__74ayiRZp-SQEV-ZgJg). 😁😁😁😁
