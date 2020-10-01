@@ -1,6 +1,6 @@
 # Space-fighter
 ## It is a game created using python
-```
+# This Mahesh who helped to develop this game
 pip install pygame
 ```
 1. open main.py
